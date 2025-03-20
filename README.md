@@ -1,3 +1,7 @@
+# 2025-03-20 숙지 사항 
+### 참조 책 : 현장에서 바로 써먹는 리액트 with typescript
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
