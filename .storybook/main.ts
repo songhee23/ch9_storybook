@@ -9,7 +9,7 @@ const config: StorybookConfig = {
     "@storybook/addon-essentials",
     "@chromatic-com/storybook",
     "@storybook/addon-interactions",
-    "@storybook/addon-docs",
+    "@storybook/addon-docs",  // DocsPage 활성화
     "storybook-addon-export-to-markdown", // Markdown 변환
   ],
   framework: {
