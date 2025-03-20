@@ -9,13 +9,12 @@ const config: StorybookConfig = {
     "@storybook/addon-essentials",
     "@chromatic-com/storybook",
     "@storybook/addon-interactions",
+    "@storybook/addon-docs",
+    "storybook-addon-export-to-markdown", // Markdown 변환
   ],
   framework: {
     name: "@storybook/react-webpack5",
     options: {},
-  },
-  docs: {
-    autodocs: "tag",
   },
   staticDirs: ["../public"],
 };
